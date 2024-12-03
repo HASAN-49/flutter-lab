@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365709968353",
+    "project_id": "auction-e5470",
+    "storage_bucket": "auction-e5470.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365709968353:android:75a0b82467ad33811f48a0",
+        "android_client_info": {
+          "package_name": "com.example.auction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ic0JsPItLPsKd2_0oT81iwQyCqZ6QOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365709968353:android:eff6c52c4431c3791f48a0",
+        "android_client_info": {
+          "package_name": "com.hasan.auction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ic0JsPItLPsKd2_0oT81iwQyCqZ6QOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
